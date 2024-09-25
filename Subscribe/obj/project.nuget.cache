@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkBGRosV5mdvfT/R0WBYy8tDEJD+7U5SCME2EO9UcVAPkN9utkPnz79TxGP93qYFG+wxCuU+rf24xrTOPIzXmA==",
+  "success": true,
+  "projectFilePath": "D:\\Own Project\\RabbitMQ\\Subscribe\\Subscribe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maula\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\maula\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\maula\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

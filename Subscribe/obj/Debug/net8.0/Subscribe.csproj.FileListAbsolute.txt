@@ -1,0 +1,17 @@
+D:\Own Project\RabbitMQ\Subscribe\bin\Debug\net8.0\Subscribe.exe
+D:\Own Project\RabbitMQ\Subscribe\bin\Debug\net8.0\Subscribe.deps.json
+D:\Own Project\RabbitMQ\Subscribe\bin\Debug\net8.0\Subscribe.runtimeconfig.json
+D:\Own Project\RabbitMQ\Subscribe\bin\Debug\net8.0\Subscribe.dll
+D:\Own Project\RabbitMQ\Subscribe\bin\Debug\net8.0\Subscribe.pdb
+D:\Own Project\RabbitMQ\Subscribe\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.csproj.AssemblyReference.cache
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.AssemblyInfoInputs.cache
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.AssemblyInfo.cs
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.csproj.CoreCompileInputs.cache
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.csproj.Up2Date
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.dll
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\refint\Subscribe.dll
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.pdb
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\Subscribe.genruntimeconfig.cache
+D:\Own Project\RabbitMQ\Subscribe\obj\Debug\net8.0\ref\Subscribe.dll

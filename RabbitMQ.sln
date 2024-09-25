@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publish", "Publish\Publish.csproj", "{8B6E5666-FC43-4D03-B0EA-598EA00EFE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscribe", "Subscribe\Subscribe.csproj", "{67403ABB-4511-441A-ACC5-98E48E9A5ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B6E5666-FC43-4D03-B0EA-598EA00EFE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6E5666-FC43-4D03-B0EA-598EA00EFE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6E5666-FC43-4D03-B0EA-598EA00EFE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6E5666-FC43-4D03-B0EA-598EA00EFE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67403ABB-4511-441A-ACC5-98E48E9A5ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67403ABB-4511-441A-ACC5-98E48E9A5ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67403ABB-4511-441A-ACC5-98E48E9A5ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67403ABB-4511-441A-ACC5-98E48E9A5ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
